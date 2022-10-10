@@ -15,4 +15,4 @@ We want the player, to be able to play again without manually having to restart 
 ![Study Stream Plus logo](/img/expected-result.png)
 
 ## Connect with us
-- [StudyStream+ YouTube Channel](https://www.youtube.com/channel/UCrj5u3y1gT93MaMqCpO1LPg)
+- [Subscribe to the StudyStream+ YouTube Channel](https://www.youtube.com/channel/UCrj5u3y1gT93MaMqCpO1LPg?%20sub_confirmation=1)
