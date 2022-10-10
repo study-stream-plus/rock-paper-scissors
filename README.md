@@ -16,4 +16,3 @@ We want the player, to be able to play again without manually having to restart 
 
 ## Connect with us
 - [StudyStream+ YouTube Channel](https://www.youtube.com/channel/UCrj5u3y1gT93MaMqCpO1LPg)
-- [Reval Govender on LinkedIn](https://uk.linkedin.com/in/reval-govender-0ba14860)
