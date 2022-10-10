@@ -1,4 +1,4 @@
-![Study Stream Plus logo](repo-logo.png)
+![Study Stream Plus logo](/img/repo-logo.png)
 
 # Rock, Paper, Scissors in Python
 
@@ -12,7 +12,7 @@ We want the player, to be able to play again without manually having to restart 
 
 ## Expected Result
 
-![Study Stream Plus logo](expected-result.png)
+![Study Stream Plus logo](/img/expected-result.png)
 
 ## Connect with us
 - [StudyStream+ YouTube Channel](https://www.youtube.com/channel/UCrj5u3y1gT93MaMqCpO1LPg)
